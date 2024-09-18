@@ -23,7 +23,6 @@ $showGreeting = true; // Change this to false to hide the greeting
             <p>Welcome back!</p>
         <?php endif; ?>
         
-        <p>This is a simple home page created using PHP. You can add more features and content as you develop your project.</p>
     </main>
     <footer>
         <p>&copy; <?php echo date("Y"); ?> My PHP Project</p>
